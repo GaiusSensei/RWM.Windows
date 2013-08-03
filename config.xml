@@ -5,10 +5,10 @@
     versionCode="10" 
     version   = "1.0.0">
     
-    <name>Bootstrapped Phonegap</name>
+    <name>Resorts World Manila Windows App</name>
     
     <description>
-        RWManila Bootstrapped Phonegap App.
+        Windows 8 Application for Resorts World Manila
     </description>
     
     <author href="http://www.rwmanila.com" email="erik.capistrano@rwmanila.com">
